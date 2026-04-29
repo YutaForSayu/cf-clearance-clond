@@ -1,4 +1,4 @@
-module gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/cfClearance
+module github.com/YutaForSayu/cf-clearance-clond
 
 go 1.14
 
